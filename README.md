@@ -5,7 +5,6 @@
 3) Fare un checkout. fatto
 4) Fare un commit. fatto 
 5) Fare una push. fatto
-<<<<<<< HEAD
 6) Fare un merge. fatto
 7) Fare una pull. fatto
 
