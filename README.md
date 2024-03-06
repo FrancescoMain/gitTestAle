@@ -18,7 +18,10 @@
 - [x] commit (salvataggi e cambiamenti)
 - [x] finish feature.
 - [x] fai un release con versionamento.
+- [x] finito git flow.
 
+
+>"SPERIAMO CHE VADA TUTTO BENE"
 
 ---
 # CORSO GIT: 
