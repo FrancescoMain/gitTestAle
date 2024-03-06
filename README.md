@@ -21,6 +21,8 @@
 - [x] finito git flow.
 
 
+>"SPERIAMO CHE VADA TUTTO BENE"
+
 ---
 # CORSO GIT: 
 | Nome | Cognome | Età |   
