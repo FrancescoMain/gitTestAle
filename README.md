@@ -1,18 +1,30 @@
-# gitTestAle
+# REPO : gitTestAle
+# Restyling by Alessandro Acampora
+## Argomenti visti
 
-1. Scaricare la repo. fatto
-2. Creare un brench. fatto
-3. Fare un checkout. fatto
-4. Fare un commit. fatto
-5. Fare una push. fatto
-6. Fare un merge. fatto
-7. Fare una pull. fatto
+- [x] Scaricare la repo. 
+- [x] Creare un brench
+- [x] Fare un checkout.
+- [x] Fare un commit. 
+- [x] Fare una push. 
+- [x] Fare un merge. 
+- [x] Fare una pull. 
+- [x] imparare ad usare git flow (perchè si usa? quali sono i comandi? ecc ecc)
+- [x] Impare ad usare md (titolo, lista, tabella);
+- [x] avviare git flow.
+- [x] avvi una nuova future. (start)
+- [x] restyle di questo md.
+- [x] git add -A
+- [x] commit (salvataggi e cambiamenti)
+- [x] finish feature.
+- [x] fai un release con versionamento.
 
-8. imparare ad usare git flow (perchè si usa? quali sono i comandi? ecc ecc)
-9. Impare ad usare md (titolo, lista, tabella);
 
-10. avviare git flow
-    versionamento
-11. avvi una nuova future
-12. restyle di questo md
-13. fai un release con versionamento
+---
+# CORSO GIT: 
+| Nome | Cognome | Età |   
+|------|---------|-----|
+|Alessandro|Acampora|19|
+|Francesco|Cesarano|26|
+
+
