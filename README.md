@@ -19,6 +19,11 @@
 - [x] finish feature.
 - [x] fai un release con versionamento.
 - [x] finito git flow.
+- [x] creare primo script PS (creare directory, spostarsi nella directory, creare nuovo file di testo)
+- [x] creare secondo script ps (entra nella dir precedente(del primo script), crea una nuova dir, sposta file di testo nella nuova dir)
+- [x] creare terzo script PS (entra nella dir e la cancella)
+- [x] eseguire questi script 
+- [x] Scrivere questi 3 script ".sh" ed eseguirli 
 
 
 >"SPERIAMO CHE VADA TUTTO BENE"
